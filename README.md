@@ -1,7 +1,7 @@
 # This code is for deformable-detr using support image
 
 ## The file tree should be:
-
+```
 -work/
 
 ​	-deformable_detr_support/
@@ -9,12 +9,13 @@
 -data/
 
 ​	-cityscape/
+```
 
 ## Preparation
 
 ### dataset and pretrained weights
 
-The dataset is in the mega cloud, user should download from 
+The custome cityscape dataset is in the mega cloud, user should download from 
 
 https://mega.nz/file/wXcTWQoR#ANd1kLJe1hh2A0LwHwUHZAfpAGVmyYWr4GHb0UiMd6I
 
